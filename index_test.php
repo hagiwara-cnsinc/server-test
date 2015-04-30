@@ -37,6 +37,7 @@
 <div id="cont-left" class="clearfix">
 						<h2><img src="img/cv_ttl_news.png" alt="NEWS" /></h2>
 						<dl>
+							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> 【002_test】</dt>
 							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> 【001_test】</dt>
 							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> <a href="http://www.pen-online.jp/special/chivasregalmizunara/" onClick="trackOutboundLink('http://www.pen-online.jp/special/chivasregalmizunara/');" target="_blank">Pen OnlineにてMIZUNARA連載特集を掲載中。第3回の記事が公開になりました。</a></dt>
 							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> <a href="/mizunara/bar-dining.php">クーポンキャンペーンはご好評につき、延長が決定しました！ 期間限定でMIZUNARA一杯を無料で楽しめます。</a></dt>
