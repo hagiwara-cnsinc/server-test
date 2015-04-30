@@ -37,8 +37,8 @@
 <div id="cont-left" class="clearfix">
 						<h2><img src="img/cv_ttl_news.png" alt="NEWS" /></h2>
 						<dl>
+							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> <a href="http://www.pen-online.jp/special/chivasregalmizunara/" onClick="trackOutboundLink('http://www.pen-online.jp/special/chivasregalmizunara/');" target="_blank">Pen OnlineにてMIZUNARA連載特集を掲載中。第3回の記事が公開になりました。</a></dt>
 							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> <a href="/mizunara/bar-dining.php">クーポンキャンペーンはご好評につき、延長が決定しました！ 期間限定でMIZUNARA一杯を無料で楽しめます。</a></dt>
-							<dt style="margin-top:10px;"><span style="color:#C90;">NEW</span> <a href="http://www.pen-online.jp/special/chivasregalmizunara/" onClick="trackOutboundLink('http://www.pen-online.jp/special/chivasregalmizunara/');" target="_blank">Pen OnlineにてMIZUNARA連載特集を掲載中。第2回目が公開になりました。</a></dt>
 							<dt style="margin-top:10px;"><a href="/mizunara/">MIZUNARA キャンペーンが開始しました！リニューアルしたサイトはこちら</a></dt>
 							<dt style="margin-top:10px;"><a href="/masters2015/">シーバス リーガルが主催するバーテンダーを対象にした2つのカクテルコンペティション（シーバス ミズナラ マスターズとシーバス マスターズ）の参加者を募集します。締切は4月12日（日）消印有効です。</a></dt>
 							<dt style="margin-top:10px;">『<a href="/gsc/award/2015/">シーバスリーガル18年ゴールドシグネチャー・アワード2015 presented by GOETHE</a>』、『<a href="/gsc/fund/2014/">シーバスブラザーズ・ヤングアントレプレナー基金 supported by GOETHE</a>』 の受賞者が決定しました。</dt>
